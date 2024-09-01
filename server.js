@@ -172,6 +172,25 @@ app.post('/api/jornadas/eliminar-partidos', (req, res) => {
     res.status(200).json({ success: true });
 });
 
+
+
+// Ruta para modificar el estado de comodín
+app.post('/api/jornadas/comodin', (req, res) => {
+    const { jornada, partidos } = req.body;
+
+    if (!jornada || !Array.isArray(partidos)) {
+        return res.status(400).send('Datos inválidos');
+    }
+
+    if (jornadas.has(jornada)) {
+        jornadas.set(jornada, partidos);
+        res.status(200).send('Estado de comodín actualizado correctamente');
+    } else {
+        res.status(404).send('Jornada no encontrada');
+    }
+});
+
+
 // Endpoints para resultados
 app.get('/api/resultados', (req, res) => {
     const resultados = loadResultados();

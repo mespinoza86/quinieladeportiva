@@ -480,5 +480,150 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada5",
+    [
+      {
+        "equipo1": "Sporting FC",
+        "marcador1": "2",
+        "equipo2": "Deportivo San Carlos",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "marcador1": "2",
+        "equipo2": "AD Municipal Liberia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Talleres",
+        "marcador1": "",
+        "equipo2": "Estudiantes",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Boca Juniors",
+        "marcador1": "",
+        "equipo2": "Rosario Central",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Cartagines",
+        "marcador1": "",
+        "equipo2": "Puntarenas FC",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "marcador1": "",
+        "equipo2": "Fortaleza",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey",
+        "marcador1": "",
+        "equipo2": "Toluca",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "marcador1": "",
+        "equipo2": "Club Sport Herediano",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "marcador1": "",
+        "equipo2": "America",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Manchester United",
+        "marcador1": "",
+        "equipo2": "Liverpool",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Juventus",
+        "marcador1": "",
+        "equipo2": "Roma",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "marcador1": "",
+        "equipo2": "Flamengo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente",
+        "marcador1": "",
+        "equipo2": "River Plate",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico Paranaense",
+        "marcador1": "",
+        "equipo2": "Palmeiras",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "marcador1": "",
+        "equipo2": "Sao Paulo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "",
+        "equipo2": "Deportivo Saprissa",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Universidad Nacional",
+        "marcador1": "",
+        "equipo2": "Tigres",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "marcador1": "",
+        "equipo2": "CD Marathon",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "marcador1": "",
+        "equipo2": "AD Guanacasteca",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real España",
+        "marcador1": "",
+        "equipo2": "CD Olimpia",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
   ]
 ]
