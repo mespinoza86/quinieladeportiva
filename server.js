@@ -30,6 +30,18 @@ app.get('/ver-resultados', (req, res) => {
     res.sendFile(path.join(__dirname, 'ver-resultados.html'));
 });
 
+
+app.get('/ver-jornadas', (req, res) => {
+    res.sendFile(path.join(__dirname, 'ver_jornadas.html'));
+});
+
+// Nueva ruta para obtener las jornadas en formato JSON
+app.get('/get-jornadas', (req, res) => {
+    const jornadas = loadJornadas();
+    res.json(Array.from(jornadas.entries()));  // Convertimos el Map a Array para enviar como JSON
+});
+
+
 // Cargar jugadores desde archivo JSON
 function loadJugadores() {
     try {
