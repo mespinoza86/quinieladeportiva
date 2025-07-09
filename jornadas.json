@@ -481,6 +481,56 @@
         "equipo1": "🇺🇸USA",
         "equipo2": "🇲🇽Mexico",
         "comodin": true
+  }
+    ]
+  ],
+  [
+    "Jornada8",
+    [
+      {
+        "equipo1": "Fluminense",
+        "equipo2": "Chelsea 🔵",
+        "comodin": true
+      },
+      {
+        "equipo1": "Estudiantes",
+        "equipo2": "Velez Sarsfield",
+        "comodin": false
+      },
+      {
+        "equipo1": "Minnesota",
+        "equipo2": "Chicago🩵❤️",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Jose",
+        "equipo2": "Austin FC",
+        "comodin": true
+      },
+      {
+        "equipo1": "PSG",
+        "equipo2": "Real Madrid",
+        "comodin": true
+      },
+      {
+        "equipo1": "Philadelphia",
+        "equipo2": "NY Red Bulls",
+        "comodin": false
+      },      
+      {
+        "equipo1": "New England",
+        "equipo2": "Inter Miami",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nashville SC",
+        "equipo2": "DC United",
+        "comodin": false
+      },    
+      {
+        "equipo1": "LAFC",
+        "equipo2": "Colorado Rapids",
+        "comodin": true
       }
     ]
   ]
