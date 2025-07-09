@@ -30,6 +30,31 @@ function mostrarPartidos(partidos) {
     partidos.forEach((partido, i) => {
         const partidoDiv = document.createElement('div');
         partidoDiv.classList.add('partido-container');
+        
+        // Verificar si el partido es comodín y aplicar negrita
+        const estiloNegrita = partido.comodin ? 'font-weight: bold;' : '';
+        
+        partidoDiv.innerHTML = `
+            <label style="${estiloNegrita}">${partido.equipo1}</label>
+            <input type="text" id="resultadoEquipo1_${i}">
+            <label style="${estiloNegrita}">vs</label>
+            <input type="text" id="resultadoEquipo2_${i}">
+            <label style="${estiloNegrita}">${partido.equipo2}</label>
+            <label style="display: none;">Comodín: ${partido.comodin ? 'Sí' : 'No'}</label>
+        `;
+        partidosContainer.appendChild(partidoDiv);
+    });
+}
+
+
+/*
+function mostrarPartidos(partidos) {
+    const partidosContainer = document.getElementById('partidosContainer');
+    partidosContainer.innerHTML = ''; 
+
+    partidos.forEach((partido, i) => {
+        const partidoDiv = document.createElement('div');
+        partidoDiv.classList.add('partido-container');
 
         partidoDiv.innerHTML = `
             <label>${partido.equipo1}</label>
@@ -42,7 +67,7 @@ function mostrarPartidos(partidos) {
         partidosContainer.appendChild(partidoDiv);
     });
 }
-
+*/
 function copiarResultados() {
     const nombreJugador = document.getElementById('nombreJugador').value.trim();
     const partidosContainer = document.getElementById('partidosContainer');
