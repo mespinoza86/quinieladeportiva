@@ -3,6 +3,11 @@
     "Jornada1",
     [
       {
+        "equipo1": "CD Victoria",
+        "equipo2": "CD Marathon",
+        "comodin": false
+      },
+      {
         "equipo1": "Guadalupe",
         "equipo2": "Herediano 🟡🔴",
         "comodin": false
