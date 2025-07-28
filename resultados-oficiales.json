@@ -39,37 +39,37 @@
       },
       {
         "equipo1": "Perez Zeledon 🔵⚪",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Saprissa 🟣⚪",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Toluca",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Tigres🔵🟡",
-        "marcador2": "",
+        "marcador2": "4",
         "comodin": true
       },
       {
         "equipo1": "Sporting FC ⚪⚫",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Alajuelense❤️🖤",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": false
       },
       {
         "equipo1": "Sao Paulo",
-        "marcador1": "",
+        "marcador1": "3",
         "equipo2": "Fluminense",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Inter Miami",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Cincinnati 🔵🟠",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       }
     ]
