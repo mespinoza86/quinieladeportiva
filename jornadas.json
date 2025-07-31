@@ -140,7 +140,7 @@
     ]
   ],
   [
-    "jornada 3 ",
+    "Jornada3",
     [
       {
         "equipo1": "NYCFC",
@@ -154,7 +154,7 @@
       },
       {
         "equipo1": "Houston",
-        "equipo2": "Mazatlan",
+        "equipo2": "Mazatlan FC",
         "comodin": false
       },
       {
@@ -184,7 +184,7 @@
       },
       {
         "equipo1": "America",
-        "equipo2": "Minesota",
+        "equipo2": "Minnesota United",
         "comodin": false
       },
       {
@@ -193,12 +193,12 @@
         "comodin": false
       },
       {
-        "equipo1": "Salt lake",
+        "equipo1": "Real Salt Lake",
         "equipo2": "San Luis 🔴⚪",
         "comodin": false
       },
       {
-        "equipo1": "Portand",
+        "equipo1": "Portland Timbers",
         "equipo2": "Queretaro",
         "comodin": false
       },
@@ -223,7 +223,7 @@
         "comodin": true
       },
       {
-        "equipo1": "Seatle Sounders",
+        "equipo1": "Seattle Sounders",
         "equipo2": "Santos",
         "comodin": false
       }
