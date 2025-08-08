@@ -418,30 +418,30 @@
       },
       {
         "equipo1": "Cincinnati 🔵🟠",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Chivas",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": true
       },
       {
         "equipo1": "NY Red Bulls",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Juarez 🟢⚫",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Managua FC",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Alajuelense❤️🖤",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": false
       },
       {
         "equipo1": "LA Galaxy",
-        "marcador1": "",
+        "marcador1": "4",
         "equipo2": "Santos",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       }
     ]
