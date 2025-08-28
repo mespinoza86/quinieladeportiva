@@ -1170,5 +1170,150 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada10",
+    [
+      {
+        "equipo1": "Cartago ⚪🔵",
+        "marcador1": "4",
+        "equipo2": "Independiente de la Chorrera",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "marcador1": "0",
+        "equipo2": "FC Motagua",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Benfica",
+        "marcador1": "1",
+        "equipo2": "Fenerbahce",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Club Brugge",
+        "marcador1": "6",
+        "equipo2": "Rangers",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Carmelita",
+        "marcador1": "",
+        "equipo2": "Inter San Carlos",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cariari",
+        "marcador1": "",
+        "equipo2": "San Carlos ❤️💙",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Jicaral",
+        "marcador1": "3",
+        "equipo2": "AD Rosario",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Guadalupe",
+        "marcador1": "3",
+        "equipo2": "Aserri",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlético MG ⚫⚪",
+        "marcador1": "0",
+        "equipo2": "Cruzeiro",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Plaza Amador",
+        "marcador1": "1",
+        "equipo2": "Alianza FC ⚪🔵",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alajuelense❤️🖤",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala🟢⚪",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico Paranaense",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Vasco de Gama ⚪⚫",
+        "marcador1": "1",
+        "equipo2": "Botafogo RJ",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "3",
+        "equipo2": "Club Xelaju",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "marcador1": "0",
+        "equipo2": "Seattle Sounders",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "",
+        "equipo2": "Fluminense",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Union",
+        "marcador1": "",
+        "equipo2": "River Plate🔴⚪",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "marcador1": "",
+        "equipo2": "CD Municipal",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Espana",
+        "marcador1": "",
+        "equipo2": "Sporting San Miguelito",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
   ]
 ]
