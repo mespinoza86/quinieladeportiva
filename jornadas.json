@@ -953,6 +953,111 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada11",
+    [
+      {
+        "equipo1": "Juarez 🟢⚫",
+        "equipo2": "Mazatlan FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "equipo2": "CD Universitario",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "equipo2": "Guadalupe",
+        "comodin": false
+      },
+      {
+        "equipo1": "Central Córdoba Santiago",
+        "equipo2": "Estudiantes",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Red Bull Bragantino",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "Philadelphia 🔵⚫",
+        "comodin": true
+      },
+      {
+        "equipo1": "NY Red Bulls",
+        "equipo2": "Columbus",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toronto",
+        "equipo2": "Montreal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Austin FC",
+        "equipo2": "San Jose",
+        "comodin": false
+      },
+      {
+        "equipo1": "Minnesota",
+        "equipo2": "Portland Timbers",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "equipo2": "Sao Paulo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "equipo2": "Alajuelense❤️🖤",
+        "comodin": true
+      },
+      {
+        "equipo1": "America",
+        "equipo2": "Pachuca",
+        "comodin": true
+      },
+      {
+        "equipo1": "Liverpool 🔴",
+        "equipo2": "Arsenal",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cartago ⚪🔵",
+        "equipo2": "Puntarenas FC🟠⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Colo Colo",
+        "equipo2": "Universidad de Chile",
+        "comodin": false
+      },
+      {
+        "equipo1": "Defensa y Justicia",
+        "equipo2": "Belgrano",
+        "comodin": false
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "equipo2": "Atlas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "equipo2": "Liberia ⚫🟡",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos ❤️💙",
+        "equipo2": "Perez Zeledon 🔵⚪",
+        "comodin": false
+      }
+    ]
   ]
-]    
+]
 
