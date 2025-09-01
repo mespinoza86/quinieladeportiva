@@ -1295,22 +1295,167 @@
       },
       {
         "equipo1": "Union",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "River Plate🔴⚪",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Herediano 🟡🔴",
-        "marcador1": "",
+        "marcador1": "4",
         "equipo2": "CD Municipal",
-        "marcador2": "",
+        "marcador2": "4",
         "comodin": false
       },
       {
         "equipo1": "Real Espana",
-        "marcador1": "",
+        "marcador1": "4",
         "equipo2": "Sporting San Miguelito",
+        "marcador2": "0",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada11",
+    [
+      {
+        "equipo1": "Juarez 🟢⚫",
+        "marcador1": "1",
+        "equipo2": "Mazatlan FC",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "CD Universitario",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "marcador1": "2",
+        "equipo2": "Guadalupe",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Central Córdoba Santiago",
+        "marcador1": "2",
+        "equipo2": "Estudiantes",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "marcador1": "4",
+        "equipo2": "Red Bull Bragantino",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "marcador1": "0",
+        "equipo2": "Philadelphia 🔵⚫",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "NY Red Bulls",
+        "marcador1": "0",
+        "equipo2": "Columbus",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toronto",
+        "marcador1": "1",
+        "equipo2": "Montreal",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Austin FC",
+        "marcador1": "3",
+        "equipo2": "San Jose",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Minnesota",
+        "marcador1": "1",
+        "equipo2": "Portland Timbers",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Sao Paulo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "marcador1": "0",
+        "equipo2": "Alajuelense❤️🖤",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "America",
+        "marcador1": "2",
+        "equipo2": "Pachuca",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Liverpool 🔴",
+        "marcador1": "1",
+        "equipo2": "Arsenal",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cartago ⚪🔵",
+        "marcador1": "0",
+        "equipo2": "Puntarenas FC🟠⚪",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Colo Colo",
+        "marcador1": "1",
+        "equipo2": "Universidad de Chile",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Defensa y Justicia",
+        "marcador1": "2",
+        "equipo2": "Belgrano",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "marcador1": "1",
+        "equipo2": "Atlas",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "marcador1": "1",
+        "equipo2": "Liberia ⚫🟡",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos ❤️💙",
+        "marcador1": "",
+        "equipo2": "Perez Zeledon 🔵⚪",
         "marcador2": "",
         "comodin": false
       }
